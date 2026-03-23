@@ -1,0 +1,175 @@
+{
+  "192.168.15.74": {
+    "location": "Sales",
+    "max_pages": 5000,
+    "baseline": 203167,
+    "model": "Недоступен",
+    "pages": "—",
+    "cartridge": "—",
+    "cartridge_index": "—",
+    "status": "Недоступен",
+    "since_replace": null,
+    "type": "html",
+    "service_log": [
+      {
+        "date": "2026-03-14",
+        "type": "Замена фотобарабана",
+        "comment": ""
+      },
+      {
+        "date": "2026-03-14",
+        "type": "Заправка картриджа",
+        "comment": ""
+      }
+    ]
+  },
+  "192.168.15.68": {
+    "location": "Sales",
+    "max_pages": 2000,
+    "baseline": 129041,
+    "model": "Недоступен",
+    "pages": "—",
+    "cartridge": "—",
+    "cartridge_index": "—",
+    "status": "Недоступен",
+    "since_replace": null,
+    "type": "html",
+    "service_log": []
+  },
+  "192.168.15.70": {
+    "location": "Buh_4",
+    "max_pages": 5000,
+    "baseline": 440374,
+    "model": "Недоступен",
+    "pages": "—",
+    "cartridge": "—",
+    "cartridge_index": "—",
+    "status": "Недоступен",
+    "since_replace": null,
+    "type": "html",
+    "service_log": []
+  },
+  "192.168.15.69": {
+    "location": "Buh_4",
+    "max_pages": 5000,
+    "baseline": 364207,
+    "model": "Недоступен",
+    "pages": "—",
+    "cartridge": "—",
+    "cartridge_index": "—",
+    "status": "Недоступен",
+    "since_replace": null,
+    "type": "html",
+    "service_log": []
+  },
+  "192.168.15.75": {
+    "location": "Buh_4",
+    "max_pages": 5000,
+    "baseline": 456947,
+    "model": "Недоступен",
+    "pages": "—",
+    "cartridge": "—",
+    "cartridge_index": "—",
+    "status": "Недоступен",
+    "since_replace": null,
+    "type": "html",
+    "service_log": [
+      {
+        "date": "2026-03-14",
+        "type": "Заправка картриджа",
+        "comment": "13.29"
+      }
+    ]
+  },
+  "192.168.15.67": {
+    "location": "Buh_3",
+    "max_pages": 5000,
+    "baseline": 576878,
+    "model": "Недоступен",
+    "pages": "—",
+    "cartridge": "—",
+    "cartridge_index": "—",
+    "status": "Недоступен",
+    "since_replace": null,
+    "type": "html",
+    "service_log": []
+  },
+  "192.168.15.55": {
+    "location": "Buh_2",
+    "max_pages": 2000,
+    "baseline": 75089,
+    "model": "Недоступен",
+    "pages": "—",
+    "cartridge": "—",
+    "cartridge_index": "—",
+    "status": "Недоступен",
+    "since_replace": null,
+    "type": "xml",
+    "service_log": []
+  },
+  "192.168.20.251": {
+    "location": "Buh_1",
+    "max_pages": 2000,
+    "baseline": 768689,
+    "model": "Недоступен",
+    "pages": "—",
+    "cartridge": "—",
+    "cartridge_index": "—",
+    "status": "Недоступен",
+    "since_replace": null,
+    "type": "html",
+    "service_log": []
+  },
+  "192.168.15.66": {
+    "location": "Buh_GL",
+    "max_pages": 1500,
+    "baseline": 4303,
+    "model": "Недоступен",
+    "pages": "—",
+    "cartridge": "—",
+    "cartridge_index": "—",
+    "status": "Недоступен",
+    "since_replace": null,
+    "type": "xml",
+    "service_log": []
+  },
+  "192.168.15.78": {
+    "location": "Dispetcher_5",
+    "max_pages": 1500,
+    "baseline": 6537,
+    "model": "Недоступен",
+    "pages": "—",
+    "cartridge": "—",
+    "cartridge_index": "—",
+    "status": "Недоступен",
+    "since_replace": null,
+    "type": "xml",
+    "service_log": []
+  },
+  "192.168.15.76": {
+    "location": "Export",
+    "max_pages": 2000,
+    "baseline": 51762,
+    "model": "Недоступен",
+    "pages": "—",
+    "cartridge": "—",
+    "cartridge_index": "—",
+    "status": "Недоступен",
+    "since_replace": null,
+    "type": "html",
+    "service_log": []
+  },
+  "192.168.15.51": {
+    "location": "Export",
+    "max_pages": 2000,
+    "baseline": 46355,
+    "model": "Недоступен",
+    "pages": "—",
+    "cartridge": "—",
+    "cartridge_index": "—",
+    "status": "Недоступен",
+    "since_replace": null,
+    "type": "html",
+    "service_log": []
+  }
+}
